@@ -67,11 +67,11 @@
 
 | 문제                                                         | 유선                     | 하임                     |
 | ------------------------------------------------------------ | ------------------------ | ------------------------ |
-| [백준 10174 - 팰린드롬]([10174번: 팰린드롬 (acmicpc.net)](https://www.acmicpc.net/problem/10174)) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [백준 8892 - 팰린드롬]([8892번: 팰린드롬 (acmicpc.net)](https://www.acmicpc.net/problem/8892)) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [백준 10820 - 문자열 분석]([10820번: 문자열 분석 (acmicpc.net)](https://www.acmicpc.net/problem/10820)) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [백준 12871 - 무한 문자열]([12871번: 무한 문자열 (acmicpc.net)](https://www.acmicpc.net/problem/12871)) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [백준 1157 - 단어 공부]([1157번: 단어 공부 (acmicpc.net)](https://www.acmicpc.net/problem/1157)) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 10174 - 팰린드롬](https://www.acmicpc.net/problem/10174) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 8892 - 팰린드롬](https://www.acmicpc.net/problem/8892) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 10820 - 문자열 분석](https://www.acmicpc.net/problem/10820) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 12871 - 무한 문자열](https://www.acmicpc.net/problem/12871) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1157 - 단어 공부](https://www.acmicpc.net/problem/1157) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 
 
