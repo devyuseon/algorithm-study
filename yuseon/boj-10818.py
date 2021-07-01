@@ -9,16 +9,17 @@ print(max(nums))
 import sys
 
 N = int(input())
-nums = list(map(int,input().split()))
+
+nums = map(int,sys.stdin.readline().split())
+
 max = -sys.maxsize
 min = sys.maxsize
+
 for n in nums:
     if n > max:
         max = n
-    elif n < min:
+    if n < min:
         min = n
-    else:
-        continue
-print(min, end=" ")
-print(max)
+
+print(min, max)
 """
