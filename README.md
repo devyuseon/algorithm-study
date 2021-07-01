@@ -47,7 +47,7 @@
 | [백준 2440 - 별 찍기 - 3](https://www.acmicpc.net/problem/2440) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2440.py) | :heavy_multiplication_x: |
 | [백준 10818 - 최소, 최대](https://www.acmicpc.net/problem/10818) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10818.py) | :heavy_multiplication_x: |
 | [백준 11718 - 그대로 출력하기](https://www.acmicpc.net/problem/11718) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-11718.py) | :heavy_multiplication_x: |
-| [백준 11022 - A+B - 8](https://www.acmicpc.net/problem/11022) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 11022 - A+B - 8](https://www.acmicpc.net/problem/11022) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-11022.py) | :heavy_multiplication_x: |
 
 
 
