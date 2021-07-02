@@ -59,7 +59,7 @@
 | [백준 10828 - 스택](https://www.acmicpc.net/problem/10828)   | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10828.py) | :heavy_multiplication_x: |
 | [백준 1168번 - 요세푸스 문제 2](https://www.acmicpc.net/problem/1168) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 10825번 - 국영수](https://www.acmicpc.net/problem/10825) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10825.py) | :heavy_multiplication_x: |
-| [백준 10430번 - 나머지](https://www.acmicpc.net/problem/10430) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 10430번 - 나머지](https://www.acmicpc.net/problem/10430) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10430.py) | :heavy_multiplication_x: |
 
 
 
