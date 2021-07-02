@@ -1,8 +1,12 @@
-
 import sys
 
-while
-arr = list(sys.stdin.readline().split("\n"))
+arr =[]
+
+while True:
+    n = input("")
+    arr.append(n)
+    if n == '':
+        break
 
 for i in range(0,len(arr)-1,1):
     print(arr[i])
