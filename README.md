@@ -67,7 +67,7 @@
 
 | 문제                                                         | 유선                     | 하임                     |
 | ------------------------------------------------------------ | ------------------------ | ------------------------ |
-| [백준 10174 - 팰린드롬](https://www.acmicpc.net/problem/10174) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 10174 - 팰린드롬](https://www.acmicpc.net/problem/10174) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10174.py) | :heavy_multiplication_x: |
 | [백준 8892 - 팰린드롬](https://www.acmicpc.net/problem/8892) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 10820 - 문자열 분석](https://www.acmicpc.net/problem/10820) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 12871 - 무한 문자열](https://www.acmicpc.net/problem/12871) | :heavy_multiplication_x: | :heavy_multiplication_x: |
