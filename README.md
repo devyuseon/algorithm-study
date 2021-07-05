@@ -75,9 +75,18 @@
 
 
 
-## 연결리스트
+## 정렬 (1주차: 0705 ~ )
 
-| 문제                                                         | 유선                     | 하임                     |
-| ------------------------------------------------------------ | ------------------------ | ------------------------ |
-| [백준 17827 - 달팽이 리스트](https://www.acmicpc.net/problem/17827) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [백준 1021 - 회전하는 큐](https://www.acmicpc.net/problem/1021) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+- 알고리즘 개념 정리 링크
+  - 유선 : :books:
+  - 하임 : :books:
+
+| 문제                                               | 유선                     | 하임                     |
+| -------------------------------------------------- | ------------------------ | ------------------------ |
+| [백준 11652 - 카드](https://www.acmicpc.net/problem/11652) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 10989 - 수 정렬하기3](https://www.acmicpc.net/problem/10989) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 11728 - 배열 합치기](https://www.acmicpc.net/problem/11728) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 5052 - 전화번호 목록](https://www.acmicpc.net/problem/5052)   | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1202 - 보석 도둑](https://www.acmicpc.net/problem/1202)   | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
+
