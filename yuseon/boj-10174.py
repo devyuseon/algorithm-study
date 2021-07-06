@@ -17,3 +17,28 @@ for _ in range(N):
         print("Yes")
     else:
         print("No")
+
+# 투포인터 풀이 추가
+"""
+import sys
+
+def is_palindrome(case: list):
+    front = 0
+    back = len(case) - 1
+
+    while(front < back):
+        if case[front] is not case[back]:
+            return False
+        front += 1
+        back -= 1
+    return True
+
+
+N = int(input())
+for _ in range(N):
+    case = sys.stdin.readline().strip().lower()
+    if is_palindrome(case):
+        print("Yes")
+    else:
+        print("No")
+"""
