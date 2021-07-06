@@ -86,7 +86,7 @@
 ## 정렬 (1주차: 0705 ~ )
 
 - 알고리즘 개념 정리 링크
-  - 유선 : :books:
+  - 유선 : [:books:](https://velog.io/@dogakday/%EC%9E%91%EC%84%B1%EC%A4%91%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-sort-algorithm)
   - 하임 : :books:
 
 | 문제                                               | 유선                     | 하임                     |
