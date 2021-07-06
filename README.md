@@ -74,6 +74,14 @@
 | [백준 1157 - 단어 공부](https://www.acmicpc.net/problem/1157) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 
+## 연결리스트
+
+| 문제                                                         | 유선                     | 하임                     |
+| ------------------------------------------------------------ | ------------------------ | ------------------------ |
+| [백준 17827 - 달팽이 리스트](https://www.acmicpc.net/problem/17827) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1021 - 회전하는 큐](https://www.acmicpc.net/problem/1021) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
+
 
 ## 정렬 (1주차: 0705 ~ )
 
