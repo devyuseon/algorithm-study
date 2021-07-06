@@ -55,11 +55,11 @@
 
 | 문제                                                         | 유선                     | 하임                     |
 | ------------------------------------------------------------ | ------------------------ | ------------------------ |
-| [백준 10845 - 큐](https://www.acmicpc.net/problem/10845)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10845.py) | :heavy_multiplication_x: |
-| [백준 10828 - 스택](https://www.acmicpc.net/problem/10828)   | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10828.py) | :heavy_multiplication_x: |
+| [백준 10845 - 큐](https://www.acmicpc.net/problem/10845)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10845.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-10845.py) |
+| [백준 10828 - 스택](https://www.acmicpc.net/problem/10828)   | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10828.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-10828.py) |
 | [백준 1168번 - 요세푸스 문제 2](https://www.acmicpc.net/problem/1168) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 10825번 - 국영수](https://www.acmicpc.net/problem/10825) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10825.py) | :heavy_multiplication_x: |
-| [백준 10430번 - 나머지](https://www.acmicpc.net/problem/10430) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10430.py) | :heavy_multiplication_x: |
+| [백준 10430번 - 나머지](https://www.acmicpc.net/problem/10430) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10430.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-10430.py) |
 
 
 
@@ -67,12 +67,11 @@
 
 | 문제                                                         | 유선                     | 하임                     |
 | ------------------------------------------------------------ | ------------------------ | ------------------------ |
-| [백준 10174 - 팰린드롬](https://www.acmicpc.net/problem/10174) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10174.py) | :heavy_multiplication_x: |
+| [백준 10174 - 팰린드롬](https://www.acmicpc.net/problem/10174) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-10174.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-10174.py)|
 | [백준 8892 - 팰린드롬](https://www.acmicpc.net/problem/8892) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 10820 - 문자열 분석](https://www.acmicpc.net/problem/10820) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 12871 - 무한 문자열](https://www.acmicpc.net/problem/12871) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 1157 - 단어 공부](https://www.acmicpc.net/problem/1157) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-
 
 
 ## 연결리스트
@@ -81,3 +80,21 @@
 | ------------------------------------------------------------ | ------------------------ | ------------------------ |
 | [백준 17827 - 달팽이 리스트](https://www.acmicpc.net/problem/17827) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 1021 - 회전하는 큐](https://www.acmicpc.net/problem/1021) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
+
+
+## 정렬 (1주차: 0705 ~ )
+
+- 알고리즘 개념 정리 링크
+  - 유선 : :books:
+  - 하임 : :books:
+
+| 문제                                               | 유선                     | 하임                     |
+| -------------------------------------------------- | ------------------------ | ------------------------ |
+| [백준 11652 - 카드](https://www.acmicpc.net/problem/11652) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 10989 - 수 정렬하기3](https://www.acmicpc.net/problem/10989) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 11728 - 배열 합치기](https://www.acmicpc.net/problem/11728) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 5052 - 전화번호 목록](https://www.acmicpc.net/problem/5052)   | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1202 - 보석 도둑](https://www.acmicpc.net/problem/1202)   | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
+
