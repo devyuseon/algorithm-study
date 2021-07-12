@@ -5,6 +5,16 @@
 - 여름 방학 기간 중, 총 8개의 주제를 가지고 알고리즘 학습 후, 문제를 푼다.
 
 
+## 계획
+- ~~1주차 : 정렬~~
+- 2주차 : 그리디
+- 3주차 : 탐색
+- 4주차 : 분할정복
+- 5주차 : 완전탐색
+- 6주차 : 투포인터
+- 7주차 : dfs/bfs
+- 8주차 : DP
+
 
 ## 규칙
 
@@ -96,3 +106,17 @@
 | [백준 11728 - 배열 합치기](https://www.acmicpc.net/problem/11728) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-11728.py) | :question: |
 | [백준 5052 - 전화번호 목록](https://www.acmicpc.net/problem/5052)   | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-50528.py) | :question: |
 | [백준 1202 - 보석 도둑](https://www.acmicpc.net/problem/1202)   | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
+## 그리디 (2주차 : 0712 ~ )
+
+- 알고리즘 개념 정리 링크
+  - 유선 : :books:
+  - 하임 : :books:
+
+| 문제                                                         | 유선                     | 하임                     |
+| ------------------------------------------------------------ | ------------------------ | ------------------------ |
+| [백준 4796 - 캠핑](https://www.acmicpc.net/problem/4796)     | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 2217 - 로프](https://www.acmicpc.net/problem/2217)     | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1439 - 뒤집기](https://www.acmicpc.net/problem/1439)   | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 11000 - 강의실 배정](https://www.acmicpc.net/problem/11000) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1744 - 수 묶기](https://www.acmicpc.net/problem/1744)  | :heavy_multiplication_x: | :heavy_multiplication_x: |
