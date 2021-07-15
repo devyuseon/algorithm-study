@@ -110,7 +110,7 @@
 ## 그리디 (2주차 : 0712 ~ )
 
 - 알고리즘 개념 정리 링크
-  - 유선 : :books:
+  - 유선 : [:books:](https://velog.io/@dogakday/Greedy-Algorithm-%EA%B7%B8%EB%A6%AC%EB%94%94-%ED%83%90%EC%9A%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
   - 하임 : :books:
 
 | 문제                                                         | 유선                     | 하임                     |
