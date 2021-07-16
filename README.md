@@ -115,7 +115,7 @@
 
 | 문제                                                         | 유선                     | 하임                     |
 | ------------------------------------------------------------ | ------------------------ | ------------------------ |
-| [백준 4796 - 캠핑](https://www.acmicpc.net/problem/4796)     | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 4796 - 캠핑](https://www.acmicpc.net/problem/4796)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-4796.py) | :heavy_multiplication_x: |
 | [백준 2217 - 로프](https://www.acmicpc.net/problem/2217)     | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 1439 - 뒤집기](https://www.acmicpc.net/problem/1439)   | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 11000 - 강의실 배정](https://www.acmicpc.net/problem/11000) | :heavy_multiplication_x: | :heavy_multiplication_x: |
