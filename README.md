@@ -119,4 +119,4 @@
 | [백준 2217 - 로프](https://www.acmicpc.net/problem/2217)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2217.py) | :heavy_multiplication_x: |
 | [백준 1439 - 뒤집기](https://www.acmicpc.net/problem/1439)   | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1439.py) | :heavy_multiplication_x: |
 | [백준 11000 - 강의실 배정](https://www.acmicpc.net/problem/11000) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-11000.py) | :heavy_multiplication_x: |
-| [백준 1744 - 수 묶기](https://www.acmicpc.net/problem/1744)  | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1744 - 수 묶기](https://www.acmicpc.net/problem/1744)  | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1744.py) | :heavy_multiplication_x: |
