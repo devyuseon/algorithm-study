@@ -111,12 +111,14 @@
 
 - 알고리즘 개념 정리 링크
   - 유선 : [:books:](https://velog.io/@dogakday/Greedy-Algorithm-%EA%B7%B8%EB%A6%AC%EB%94%94-%ED%83%90%EC%9A%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-  - 하임 : :books:
+  - 하임 : [:books:](https://www.notion.so/17b8c083ce814f608422f6b5f93a9a2d)
+  
 
 | 문제                                                         | 유선                     | 하임                     |
 | ------------------------------------------------------------ | ------------------------ | ------------------------ |
-| [백준 4796 - 캠핑](https://www.acmicpc.net/problem/4796)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-4796.py) | :heavy_multiplication_x: |
-| [백준 2217 - 로프](https://www.acmicpc.net/problem/2217)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2217.py) | :heavy_multiplication_x: |
-| [백준 1439 - 뒤집기](https://www.acmicpc.net/problem/1439)   | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1439.py) | :heavy_multiplication_x: |
+| [백준 4796 - 캠핑](https://www.acmicpc.net/problem/4796)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-4796.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-4796.py) |
+| [백준 2217 - 로프](https://www.acmicpc.net/problem/2217)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2217.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-2217.py) |
+| [백준 1439 - 뒤집기](https://www.acmicpc.net/problem/1439)   | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1439.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-1439.py) |
 | [백준 11000 - 강의실 배정](https://www.acmicpc.net/problem/11000) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-11000.py) | :heavy_multiplication_x: |
-| [백준 1744 - 수 묶기](https://www.acmicpc.net/problem/1744)  | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1744.py) | :heavy_multiplication_x: |
+| [백준 1744 - 수 묶기](https://www.acmicpc.net/problem/1744)  | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1744.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-1744.py) |
+
