@@ -8,7 +8,7 @@
 ## 계획
 - ~~1주차 : 정렬~~
 - ~~2주차 : 그리디~~
-- 3주차 : 탐색
+- 3주차 : 이분탐색
 - 4주차 : 분할정복
 - 5주차 : 완전탐색
 - 6주차 : 투포인터
@@ -122,3 +122,17 @@
 | [백준 11000 - 강의실 배정](https://www.acmicpc.net/problem/11000) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-11000.py) | :heavy_multiplication_x: |
 | [백준 1744 - 수 묶기](https://www.acmicpc.net/problem/1744)  | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1744.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-1744.py) |
 
+
+## 탐색 (3주차 : 0719 ~ )
+
+- 알고리즘 개념 정리 링크
+  - 유선 : :books:
+  - 하임 : [:books:](https://www.notion.so/cf44baa39d984e24a254b7c0717d066a?v=bef17b4b2a3d43c2a6b1dee508b7aedc)
+
+| 문제                                                         | 유선                     | 하임                     |
+| ------------------------------------------------------------ | ------------------------ | ------------------------ |
+| [백준 1654 - 랜선 자르기](https://www.acmicpc.net/problem/1654) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 2805 - 나무 자르기](https://www.acmicpc.net/problem/2805) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 2110 - 공유기 설치](https://www.acmicpc.net/problem/2110) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1300 - K번째 수](https://www.acmicpc.net/problem/1300) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 12015 - 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | :heavy_multiplication_x: | :heavy_multiplication_x: |
