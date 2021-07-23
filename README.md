@@ -126,7 +126,7 @@
 ## 탐색 (3주차 : 0719 ~ )
 
 - 알고리즘 개념 정리 링크
-  - 유선 : :books:
+  - 유선 : [:books:](https://velog.io/@dogakday/%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Binary-Search-Algorithm-Python)
   - 하임 : [:books:](https://www.notion.so/cf44baa39d984e24a254b7c0717d066a?v=bef17b4b2a3d43c2a6b1dee508b7aedc)
 
 | 문제                                                         | 유선                     | 하임                     |
