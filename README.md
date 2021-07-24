@@ -132,7 +132,7 @@
 | 문제                                                         | 유선                     | 하임                     |
 | ------------------------------------------------------------ | ------------------------ | ------------------------ |
 | [백준 1654 - 랜선 자르기](https://www.acmicpc.net/problem/1654) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1654.py) | :heavy_multiplication_x: |
-| [백준 2805 - 나무 자르기](https://www.acmicpc.net/problem/2805) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 2805 - 나무 자르기](https://www.acmicpc.net/problem/2805) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2805.py) | :heavy_multiplication_x: |
 | [백준 2110 - 공유기 설치](https://www.acmicpc.net/problem/2110) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 1300 - K번째 수](https://www.acmicpc.net/problem/1300) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [백준 12015 - 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | :heavy_multiplication_x: | :heavy_multiplication_x: |
