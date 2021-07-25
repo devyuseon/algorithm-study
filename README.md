@@ -119,7 +119,7 @@
 | [백준 4796 - 캠핑](https://www.acmicpc.net/problem/4796)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-4796.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-4796.py) |
 | [백준 2217 - 로프](https://www.acmicpc.net/problem/2217)     | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2217.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-2217.py) |
 | [백준 1439 - 뒤집기](https://www.acmicpc.net/problem/1439)   | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1439.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-1439.py) |
-| [백준 11000 - 강의실 배정](https://www.acmicpc.net/problem/11000) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-11000.py) | :heavy_multiplication_x: |
+| [백준 11000 - 강의실 배정](https://www.acmicpc.net/problem/11000) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-11000.py) | :question: |
 | [백준 1744 - 수 묶기](https://www.acmicpc.net/problem/1744)  | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1744.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-1744.py) |
 
 
@@ -131,8 +131,8 @@
 
 | 문제                                                         | 유선                     | 하임                     |
 | ------------------------------------------------------------ | ------------------------ | ------------------------ |
-| [백준 1654 - 랜선 자르기](https://www.acmicpc.net/problem/1654) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1654.py) | :heavy_multiplication_x: |
-| [백준 2805 - 나무 자르기](https://www.acmicpc.net/problem/2805) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2805.py) | :heavy_multiplication_x: |
-| [백준 2110 - 공유기 설치](https://www.acmicpc.net/problem/2110) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [백준 1300 - K번째 수](https://www.acmicpc.net/problem/1300) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [백준 12015 - 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1654 - 랜선 자르기](https://www.acmicpc.net/problem/1654) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1654.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-1654.py) |
+| [백준 2805 - 나무 자르기](https://www.acmicpc.net/problem/2805) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2805.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/blob/main/haim/boj-2805.py) |
+| [백준 2110 - 공유기 설치](https://www.acmicpc.net/problem/2110) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/commit/3691c56c458042981c563e6f80aa11cdc453d27c) |
+| [백준 1300 - K번째 수](https://www.acmicpc.net/problem/1300) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/commit/3691c56c458042981c563e6f80aa11cdc453d27c) |
+| [백준 12015 - 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | :heavy_multiplication_x: | :question: |
