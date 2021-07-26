@@ -8,7 +8,7 @@
 ## 계획
 - ~~1주차 : 정렬~~
 - ~~2주차 : 그리디~~
-- 3주차 : 이분탐색
+- ~~3주차 : 이분탐색~~
 - 4주차 : 분할정복
 - 5주차 : 완전탐색
 - 6주차 : 투포인터
@@ -136,4 +136,3 @@
 | [백준 2110 - 공유기 설치](https://www.acmicpc.net/problem/2110) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2110.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/commit/3691c56c458042981c563e6f80aa11cdc453d27c) |
 | [백준 1300 - K번째 수](https://www.acmicpc.net/problem/1300) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1300.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/commit/3691c56c458042981c563e6f80aa11cdc453d27c) |
 | [백준 12015 - 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | :question: | :question: |
->>>>>>> a6ed80b53e8fef3fe07d86d5c68af5bc265436b0
