@@ -136,3 +136,18 @@
 | [백준 2110 - 공유기 설치](https://www.acmicpc.net/problem/2110) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-2110.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/commit/3691c56c458042981c563e6f80aa11cdc453d27c) |
 | [백준 1300 - K번째 수](https://www.acmicpc.net/problem/1300) | [:heavy_check_mark:](https://github.com/yuseon-Lim/algorithm-study/blob/main/yuseon/boj-1300.py) | [:heavy_check_mark:](https://github.com/hyou55/algorithm-study/commit/3691c56c458042981c563e6f80aa11cdc453d27c) |
 | [백준 12015 - 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | :question: | :question: |
+
+
+## 분할 정복 (4주차 : 0726 ~ )
+
+- 알고리즘 개념 정리 링크
+  - 유선 : :books:
+  - 하임 : [:books:](https://www.notion.so/cf44baa39d984e24a254b7c0717d066a?v=bef17b4b2a3d43c2a6b1dee508b7aedc)
+
+| 문제                                                         | 유선                     | 하임                     |
+| ------------------------------------------------------------ | ------------------------ | ------------------------ |
+| [백준 11729 - 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1992 - 쿼드 트리](https://www.acmicpc.net/problem/1992) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 2447 - 별찍기 - 10](https://www.acmicpc.net/problem/2447) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 2448 - 별 찍기 - 11](https://www.acmicpc.net/problem/2448) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [백준 1517 - 버블 소트](https://www.acmicpc.net/problem/1517) | :heavy_multiplication_x: | :heavy_multiplication_x: |
