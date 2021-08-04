@@ -141,7 +141,7 @@
 ## 분할 정복 (4주차 : 0726 ~ )
 
 - 알고리즘 개념 정리 링크
-  - 유선 : :books:
+  - 유선 : [:books:](https://velog.io/@dogakday/%EB%B6%84%ED%95%A0-%EC%A0%95%EB%B3%B5-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Divide-and-conquer-algorithm-Python)
   - 하임 : [:books:](https://www.notion.so/cf44baa39d984e24a254b7c0717d066a?v=bef17b4b2a3d43c2a6b1dee508b7aedc)
 
 | 문제                                                         | 유선                     | 하임                     |
